@@ -1,0 +1,70 @@
+body
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+.form-floating.mb-3 {
+    position: relative;
+    width: 50%;
+    left: 25%;
+}
+.loginf{
+    margin-top: 7rem;
+}
+legend {
+    width: 57%!important;
+    border-bottom: solid cornflowerblue;
+    margin-bottom: 3rem!important;
+    font-size: calc(1.275rem + .3vw);
+    position: relative;
+    left: 22%;
+}
+button.btn.btn-primary {
+    position: relative;
+    margin-top: 3rem!important;
+    left: 22%;
+    width: 15%;
+}
+
+
+.vc{
+    display: inline-flex;
+    align-content:center;
+    justify-content: center;
+    position: relative;
+    width:100%
+}
+
+video{
+    width: 720px;
+    margin: 2px;
+    border: solid cornflowerblue;
+    border-radius: 10%;
+}
+
+.pcon{
+    left:20%;
+    position: relative;
+    top: 40%;
+
+}
+
+#homebtn{
+    left: 23% !important;
+    width: 26% !important;
+    top: 220% !important;
+}
+
+#wel{
+    left: 260%;
+    position: relative;
+}
+
+
+.callname{
+    margin-left: 42%;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    position: relative;
+}
