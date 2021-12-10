@@ -1,2 +1,2 @@
 # Video_chat-App
-This is My Video Chat appllication
+This is server for video chat application.
